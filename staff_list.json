@@ -5,7 +5,7 @@
       "name": "Dr. Rex Gibson",
       "role": "Chief Metrics Architect",
       "location": {
-        "latitute": -41.252043387701775,
+        "latitude": -41.252043387701775,
         "longitude": 174.76773652554334
       }
     },
@@ -14,7 +14,7 @@
       "name": "Amina Torphy",
       "role": "Direct Metrics Facilitator",
       "location": {
-        "latitute": -41.337468696878226,
+        "latitude": -41.337468696878226,
         "longitude": 174.74167418422815
       }
     },
@@ -23,7 +23,7 @@
       "name": "Miss Hazel Satterfield",
       "role": "Human Quality Agent",
       "location": {
-        "latitute": -41.29778955146341,
+        "latitude": -41.29778955146341,
         "longitude": 174.72312133308046
       }
     },
@@ -32,7 +32,7 @@
       "name": "Shaina Rempel",
       "role": "Future Research Agent",
       "location": {
-        "latitute": -41.30710143139155,
+        "latitude": -41.30710143139155,
         "longitude": 174.75208649620285
       }
     },
@@ -41,7 +41,7 @@
       "name": "Kenton Barton IV",
       "role": "Dynamic Marketing Analyst",
       "location": {
-        "latitute": -41.291380038234614,
+        "latitude": -41.291380038234614,
         "longitude": 174.78800575670996
       }
     },
@@ -50,7 +50,7 @@
       "name": "Beaulah Berge",
       "role": "Chief Directives Engineer",
       "location": {
-        "latitute": -41.27179047291976,
+        "latitude": -41.27179047291976,
         "longitude": 174.72886197907593
       }
     },
@@ -59,7 +59,7 @@
       "name": "Ardith Stiedemann",
       "role": "Customer Research Executive",
       "location": {
-        "latitute": -41.34368528432246,
+        "latitude": -41.34368528432246,
         "longitude": 174.76174035763617
       }
     },
@@ -68,7 +68,7 @@
       "name": "Edmund Gusikowski",
       "role": "Principal Tactics Developer",
       "location": {
-        "latitute": -41.28383740463094,
+        "latitude": -41.28383740463094,
         "longitude": 174.77300478218476
       }
     },
@@ -77,7 +77,7 @@
       "name": "Rogelio Ryan",
       "role": "Principal Implementation Officer",
       "location": {
-        "latitute": -41.30297408966729,
+        "latitude": -41.30297408966729,
         "longitude": 174.77589175101804
       }
     },
@@ -86,7 +86,7 @@
       "name": "Alva Hills PhD",
       "role": "National Factors Planner",
       "location": {
-        "latitute": -41.252233434320175,
+        "latitude": -41.252233434320175,
         "longitude": 174.73444628405207
       }
     },
@@ -95,7 +95,7 @@
       "name": "Greg Nienow",
       "role": "Regional Research Representative",
       "location": {
-        "latitute": -41.306218310294256,
+        "latitude": -41.306218310294256,
         "longitude": 174.7428921162712
       }
     },
@@ -104,7 +104,7 @@
       "name": "Ricky Hoeger",
       "role": "Dynamic Web Agent",
       "location": {
-        "latitute": -41.31194930522149,
+        "latitude": -41.31194930522149,
         "longitude": 174.83410080688597
       }
     },
@@ -113,7 +113,7 @@
       "name": "Freeda Bogan",
       "role": "Product Integration Strategist",
       "location": {
-        "latitute": -41.29845329787395,
+        "latitude": -41.29845329787395,
         "longitude": 174.70792528465492
       }
     },
@@ -122,7 +122,7 @@
       "name": "Alejandrin Dietrich",
       "role": "Internal Optimization Strategist",
       "location": {
-        "latitute": -41.28631511560318,
+        "latitude": -41.28631511560318,
         "longitude": 174.77048701734748
       }
     },
@@ -131,7 +131,7 @@
       "name": "Daphnee Zemlak",
       "role": "Forward Brand Administrator",
       "location": {
-        "latitute": -41.27247128726977,
+        "latitude": -41.27247128726977,
         "longitude": 174.7351375584343
       }
     },
@@ -140,7 +140,7 @@
       "name": "Duane Pollich",
       "role": "Investor Group Strategist",
       "location": {
-        "latitute": -41.29092388991951,
+        "latitude": -41.29092388991951,
         "longitude": 174.78446621334547
       }
     },
@@ -149,7 +149,7 @@
       "name": "Darron Kertzmann",
       "role": "Customer Usability Manager",
       "location": {
-        "latitute": -41.27343981602077,
+        "latitude": -41.27343981602077,
         "longitude": 174.83738596630076
       }
     },
@@ -158,7 +158,7 @@
       "name": "Ezekiel Borer",
       "role": "Product Directives Strategist",
       "location": {
-        "latitute": -41.28109346143994,
+        "latitude": -41.28109346143994,
         "longitude": 174.81720738267614
       }
     },
@@ -167,7 +167,7 @@
       "name": "Mrs. Meaghan Towne",
       "role": "Dynamic Usability Engineer",
       "location": {
-        "latitute": -41.27648400421279,
+        "latitude": -41.27648400421279,
         "longitude": 174.80146987923735
       }
     },
@@ -176,7 +176,7 @@
       "name": "Fabian Jerde",
       "role": "Customer Directives Supervisor",
       "location": {
-        "latitute": -41.326262127639,
+        "latitude": -41.326262127639,
         "longitude": 174.73884154317096
       }
     },
@@ -185,7 +185,7 @@
       "name": "Abbey Zieme",
       "role": "Direct Identity Developer",
       "location": {
-        "latitute": -41.2963171369395,
+        "latitude": -41.2963171369395,
         "longitude": 174.75601253091392
       }
     },
@@ -194,7 +194,7 @@
       "name": "Hillary Russel",
       "role": "Human Accountability Liaison",
       "location": {
-        "latitute": -41.32341485494112,
+        "latitude": -41.32341485494112,
         "longitude": 174.80149519488822
       }
     },
@@ -203,7 +203,7 @@
       "name": "Brad Cole",
       "role": "Corporate Functionality Producer",
       "location": {
-        "latitute": -41.28737687177521,
+        "latitude": -41.28737687177521,
         "longitude": 174.76880077641445
       }
     },
@@ -212,7 +212,7 @@
       "name": "Ms. Elinor Bernhard",
       "role": "Dynamic Branding Designer",
       "location": {
-        "latitute": -41.29645313110137,
+        "latitude": -41.29645313110137,
         "longitude": 174.8160197238496
       }
     },
@@ -221,7 +221,7 @@
       "name": "Hortense Wuckert",
       "role": "Product Security Manager",
       "location": {
-        "latitute": -41.297326241257146,
+        "latitude": -41.297326241257146,
         "longitude": 174.75317503466684
       }
     },
@@ -230,7 +230,7 @@
       "name": "Niko Hegmann Sr.",
       "role": "Chief Interactions Engineer",
       "location": {
-        "latitute": -41.309261227713826,
+        "latitude": -41.309261227713826,
         "longitude": 174.8240236276591
       }
     },
@@ -239,7 +239,7 @@
       "name": "Carol Fahey",
       "role": "Investor Assurance Developer",
       "location": {
-        "latitute": -41.31250972167676,
+        "latitude": -41.31250972167676,
         "longitude": 174.78590127572951
       }
     },
@@ -248,7 +248,7 @@
       "name": "Dr. Joaquin McClure",
       "role": "Corporate Functionality Officer",
       "location": {
-        "latitute": -41.25886739136641,
+        "latitude": -41.25886739136641,
         "longitude": 174.82375113947688
       }
     },
@@ -257,7 +257,7 @@
       "name": "Mr. Carlee Pfannerstill",
       "role": "Legacy Tactics Consultant",
       "location": {
-        "latitute": -41.31317151723735,
+        "latitude": -41.31317151723735,
         "longitude": 174.732714340156
       }
     },
@@ -266,7 +266,7 @@
       "name": "Miss Aiyana Schamberger",
       "role": "Customer Usability Architect",
       "location": {
-        "latitute": -41.268897832897466,
+        "latitude": -41.268897832897466,
         "longitude": 174.7525605490229
       }
     }
