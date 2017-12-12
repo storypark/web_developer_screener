@@ -11,7 +11,7 @@ Given the api endpoint above, containing a JSON encoded list of Staff, create an
 
 You can use the first formula from this [Great-circle distance - Wikipedia](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance, don’t forget, you’ll need to convert degrees to radians.
 
-This output can be displayed however you like, from a light rails_sinatra_go/node web app to a CLI. Do what you're comfortable with, again with a focus on simple, idomatic code.
+This output can be displayed however you like, from a light rails_sinatra_go/node web app to a CLI. Do what you're comfortable with, again with a focus on simple, idiomatic code.
 
 ## Part 2
 Given the code you've written for the first part, find out which employees live on the water, are in houseboats
