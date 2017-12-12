@@ -12,6 +12,6 @@ We have designed the process to take less than 3 hours to complete, but understa
 3. Write some code, that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers. e.g. [[1,2,[3]],4] -> [1,2,3,4].
 4. Given a file (`staff_list.json` in this directory), containing a JSON encoded list of Staff, create an program to read and parse this file to display all staff (these aren't real staff members or addresses), ordered by name, who live within 2km of our office, which is located at 175 Victoria Street, Wellington (lat: -41.2920728, long: 174.7748162).
   - You can use the first formula from [this Wikipedia article](https://en.wikipedia.org/wiki/Great-circle_distance) to calculate distance, don’t forget, you’ll need to convert degrees to radians.
-  - This output can be displayed however you like, from a light rails/sinatra/go/node web app to a CLI. Do what you're comfortable with, again with a focus on simple, idomatic code.
+  - This output can be displayed however you like, from a light rails/sinatra/go/node web app to a CLI. Do what you're comfortable with, again with a focus on simple, idiomatic code.
 
 Hat tip to intercom.io, who have blogged about their hiring process and we've based ours on this.
