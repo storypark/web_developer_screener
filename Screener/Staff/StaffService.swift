@@ -22,14 +22,20 @@ struct StaffService {
         
         // Load the file asynchronously
         DispatchQueue.global(qos: .default).async {
+            let result: StaffResult
             let decoder = JSONDecoder()
             do {
                 let data = try Data(contentsOf: url)
                 let staffList = try decoder.decode(StaffList.self, from: data)
                 
-                completion(.staff(staff: staffList.staff))
+                result = .staff(staff: staffList.staff)
             } catch {
-                completion(.error(error: .underlying(error: error)))
+                result = .error(error: .underlying(error: error))
+            }
+            
+            // Callback to main
+            DispatchQueue.main.async {
+                completion(result)
             }
         }
     }
