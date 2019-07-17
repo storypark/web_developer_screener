@@ -7,19 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FAA4138122DEB2AA00F52DBA /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = FAA4138022DEB2AA00F52DBA /* readme.md */; };
 		FADF64EA215448DE001AE122 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF64E9215448DE001AE122 /* AppDelegate.swift */; };
 		FADF64EC215448DE001AE122 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF64EB215448DE001AE122 /* ViewController.swift */; };
 		FADF64EF215448DE001AE122 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADF64ED215448DE001AE122 /* Main.storyboard */; };
 		FADF64F1215448E0001AE122 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADF64F0215448E0001AE122 /* Assets.xcassets */; };
 		FADF64F4215448E0001AE122 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FADF64F2215448E0001AE122 /* LaunchScreen.storyboard */; };
-		FADF64FE21544945001AE122 /* Staff.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF64FD21544945001AE122 /* Staff.swift */; };
-		FADF6500215449FA001AE122 /* StaffLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF64FF215449FA001AE122 /* StaffLocation.swift */; };
-		FADF650221544A28001AE122 /* StaffList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF650121544A28001AE122 /* StaffList.swift */; };
-		FADF650421544A3F001AE122 /* StaffService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FADF650321544A3F001AE122 /* StaffService.swift */; };
-		FADF650621544B16001AE122 /* staff_list.json in Resources */ = {isa = PBXBuildFile; fileRef = FADF650521544B16001AE122 /* staff_list.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FAA4138022DEB2AA00F52DBA /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = SOURCE_ROOT; };
 		FADF64E6215448DE001AE122 /* Screener.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Screener.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADF64E9215448DE001AE122 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FADF64EB215448DE001AE122 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -27,11 +24,6 @@
 		FADF64F0215448E0001AE122 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FADF64F3215448E0001AE122 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FADF64F5215448E0001AE122 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FADF64FD21544945001AE122 /* Staff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Staff.swift; sourceTree = "<group>"; };
-		FADF64FF215449FA001AE122 /* StaffLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaffLocation.swift; sourceTree = "<group>"; };
-		FADF650121544A28001AE122 /* StaffList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaffList.swift; sourceTree = "<group>"; };
-		FADF650321544A3F001AE122 /* StaffService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaffService.swift; sourceTree = "<group>"; };
-		FADF650521544B16001AE122 /* staff_list.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = staff_list.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,12 +56,12 @@
 		FADF64E8215448DE001AE122 /* Screener */ = {
 			isa = PBXGroup;
 			children = (
+				FAA4138022DEB2AA00F52DBA /* readme.md */,
 				FADF64E9215448DE001AE122 /* AppDelegate.swift */,
 				FADF64EB215448DE001AE122 /* ViewController.swift */,
 				FADF64F0215448E0001AE122 /* Assets.xcassets */,
 				FADF64ED215448DE001AE122 /* Main.storyboard */,
 				FADF64F2215448E0001AE122 /* LaunchScreen.storyboard */,
-				FADF64FC2154493A001AE122 /* Staff */,
 				FADF64FB2154492B001AE122 /* Support Files */,
 			);
 			path = Screener;
@@ -79,20 +71,8 @@
 			isa = PBXGroup;
 			children = (
 				FADF64F5215448E0001AE122 /* Info.plist */,
-				FADF650521544B16001AE122 /* staff_list.json */,
 			);
 			path = "Support Files";
-			sourceTree = "<group>";
-		};
-		FADF64FC2154493A001AE122 /* Staff */ = {
-			isa = PBXGroup;
-			children = (
-				FADF64FD21544945001AE122 /* Staff.swift */,
-				FADF64FF215449FA001AE122 /* StaffLocation.swift */,
-				FADF650121544A28001AE122 /* StaffList.swift */,
-				FADF650321544A3F001AE122 /* StaffService.swift */,
-			);
-			path = Staff;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,6 +107,7 @@
 				TargetAttributes = {
 					FADF64E5215448DE001AE122 = {
 						CreatedOnToolsVersion = 9.4;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
@@ -155,7 +136,7 @@
 			files = (
 				FADF64F4215448E0001AE122 /* LaunchScreen.storyboard in Resources */,
 				FADF64F1215448E0001AE122 /* Assets.xcassets in Resources */,
-				FADF650621544B16001AE122 /* staff_list.json in Resources */,
+				FAA4138122DEB2AA00F52DBA /* readme.md in Resources */,
 				FADF64EF215448DE001AE122 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -167,12 +148,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FADF650421544A3F001AE122 /* StaffService.swift in Sources */,
-				FADF64FE21544945001AE122 /* Staff.swift in Sources */,
 				FADF64EC215448DE001AE122 /* ViewController.swift in Sources */,
 				FADF64EA215448DE001AE122 /* AppDelegate.swift in Sources */,
-				FADF6500215449FA001AE122 /* StaffLocation.swift in Sources */,
-				FADF650221544A28001AE122 /* StaffList.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -325,7 +302,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.storypark.ios.Screener;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -343,7 +320,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.storypark.ios.Screener;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

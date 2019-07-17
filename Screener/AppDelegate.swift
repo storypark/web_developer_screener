@@ -13,17 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
-        
-        // An example of how to use the StaffService
-        StaffService.loadStaff { result in
-            switch result {
-            case .staff(let staff):
-                print(staff)
-            case .error(let error):
-                print(error)
-            }
-        }
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         return true
     }
