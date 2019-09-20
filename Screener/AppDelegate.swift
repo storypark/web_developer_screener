@@ -3,7 +3,7 @@
 //  Screener
 //
 //  Created by Alex Quinlivan on 21/09/18.
-//  Copyright © 2018 Storypark Ltd. All rights reserved.
+//  Copyright © 2019 Storypark Ltd. All rights reserved.
 //
 
 import UIKit
@@ -13,7 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         // An example of how to use the StaffService
         StaffService.loadStaff { result in
